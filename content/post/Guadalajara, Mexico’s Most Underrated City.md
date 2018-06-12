@@ -8,6 +8,8 @@ category: City Travel
 ![City Travel](https://laughing-edison-ae72b1.netlify.com/static/2.jpeg)
 ![City Travel](/static/2.jpeg)
 ![City Travel](static/2.jpeg)
+![City Travel](/statics/2.jpeg)
+![City Travel](statics/2.jpeg)
 
 My link with Mexico likely were only available in utero as the beaches of Riviera Maya have always been a favorite of my parents. But aside from appointments to American-heavy destinations like Cozumel, Playa del Carmen, and Tulum, I’d barely spent any time there. It had been time to start to see the “real” Mexico.
 
